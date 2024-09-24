@@ -8,7 +8,7 @@ enum valuta
 };
 
 int main() {
-	/*int temperatura;
+	int temperatura;
 	cout << "temperatura: ";
 	cin >> temperatura;
 	if (temperatura < 35.5)
@@ -26,9 +26,9 @@ int main() {
 	if (temperatura > 42)
 	{
 		cout << "vi umerli";
-	}*/
+	}
 
-	/*int chislo1;
+	int chislo1;
 	cout << "num 1: ";
 	cin >> chislo1;
 	int chislo2;
@@ -44,9 +44,9 @@ int main() {
 	int max = chislo1;
 	if (chislo2 > max) max = chislo2;
 	if (chislo3 > max) max = chislo3;
-	cout << "maksimum" << max << endl;*/
+	cout << "maksimum" << max << endl;
 
-	/*int code;
+	int code;
 	double c;
 	double b;
 	cin >> code;
@@ -68,9 +68,9 @@ int main() {
 		break;
 	default:
 		break;
-	}*/
+	}
 
-	/*int code;
+	int code;
 	double c;
 	double b;
 	cin >> code;
@@ -92,9 +92,9 @@ int main() {
 		break;
 	default:
 		break;
-	}*/
+	}
 
-	/*int code;
+	int code;
 	double c;
 	double b;
 	cin >> code;
@@ -116,9 +116,9 @@ int main() {
 		break;
 	default:
 		break;
-	}*/
+	}
 
-    /*int code;
+    int code;
 	double c;
 	double b;
 	cin >> code;
@@ -140,9 +140,9 @@ int main() {
 		break;
 	default:
 		break;
-	}*/
+	}
 
-    /*int code;
+    int code;
 	double s;
 	double a;
 	double c;
@@ -171,7 +171,7 @@ int main() {
 		break;
 	default:
 		break;
-	}*/
+	}
 
 
 }
